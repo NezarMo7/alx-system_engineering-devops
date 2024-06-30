@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ssh-keygen -b 4096
+ssh-keygen -b 4096 -f school -n betty
